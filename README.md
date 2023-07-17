@@ -12,7 +12,7 @@ Check https://www.mercadolibre.com.co/robots.txt for more information on what th
 Para este proyecto vamos a utilizar: HTML,lxmml,Request,Pandas,BeautifulSoup
 
 
-import requests # se va realizar web scraping a mercado libre para obtener mas de 40.000 registro de vehiculos usados
+import requests # se va realizar web scraping a mercado libre para obtener mas de 5000 registros de vehiculos usados en el mercado colombiano
 from bs4 import BeautifulSoup
 from lxml import etree
 import pandas as pd
